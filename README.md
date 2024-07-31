@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on **a React Project**
  
- 🌱 I’m currently learning **Figma, React**
+ 🌱 I’m currently learning **Figma**
 
  </div>
  
